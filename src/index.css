@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .border-effect {
+        animation: bordereffect 0.5s 1;
+    }
+}
+
+@keyframes bordereffect {
+    from {border: ;}
+
+    to {}
+}
+
+@font-face {
+    font-family: "Vazir";
+    src: url("./fonts/Vazir.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "STARLYNX";
+    src: url("./fonts/STARLYNX.ttf") format("truetype");
+}
