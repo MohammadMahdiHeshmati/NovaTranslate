@@ -6,4 +6,4 @@ Simple appearance and has two Persian and English languages...
 1. => npm i
 2. => npm run dev
 
- I hope you enjoy this project❤️
+ I hope you enjoy this project ❤️
