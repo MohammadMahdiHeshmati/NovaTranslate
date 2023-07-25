@@ -1,9 +1,8 @@
 # NovaTranslate
-My first React project
-Simple appearance and has two Persian and English languages...
+Translate With React JS
 
 # Usage
-1. => npm i
-2. => npm run dev
+1. npm i
+2. npm run dev
 
- I hope you enjoy this project ❤️
+I hope you enjoy this project ❤️
