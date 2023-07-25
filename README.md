@@ -1,5 +1,5 @@
 # NovaTranslate
-Translate With React JS
+Translate Page With React JS
 
 # Usage
 1. npm i
